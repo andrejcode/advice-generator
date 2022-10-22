@@ -6,7 +6,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -22,11 +21,6 @@ Mobile prewiew
 
 ![](./screenshots/screenshot-mobile.png)
 
-### Links
-
-- Solution URL: [https://github.com/andrejcode/advice-generator](https://github.com/andrejcode/advice-generator)
-- Live Site URL: [https://andrejcode.github.io/advice-generator/](https://andrejcode.github.io/advice-generator/)
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -36,5 +30,4 @@ Mobile prewiew
 
 ## Author
 
-- Frontend Mentor - [@andrejcode](https://www.frontendmentor.io/profile/andrejcode)
 - Twitter - [@andrejcodes](https://www.twitter.com/andrejcodes)
